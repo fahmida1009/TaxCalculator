@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tax Calculator</string>
+    <string name="hello_world">Tax_Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Tax_Rules</string>
+    <string name="title_activity_tax__calculator">Tax_Calculator</string>
+</resources>
